@@ -51,6 +51,7 @@ Active ton environnement virtuel puis installe :
    docker-compose up -d
 
 📁 Structure du projet
+```
 
 chatbot_cgv/
 
@@ -69,6 +70,7 @@ chatbot_cgv/
 ├── .gitignore             # Fichiers ignorés par Git
 
 └── README.md              # Documentation
+```
 
 👩‍💻 Créateurs du projet
 
